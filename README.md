@@ -5,7 +5,7 @@
 ## Setup
 
 ```bash
-git clone https://gist.github.com/jtpio/pydata-heidelberg-workshop
+git clone https://github.com/jtpio/pydata-heidelberg-workshop
 cd pydata-heidelberg-workshop/
 
 conda env create
