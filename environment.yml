@@ -8,25 +8,24 @@ dependencies:
 - ipyleaflet=0.11
 - ipympl
 - ipyvuetify=1.1
+- jupyterlab-git
 - jupyterlab=1
+- jupyterlab_heroku
 - matplotlib
 - nodejs
 - notebook>=6
 - numpy
 - pandas
-- python=3.7
 - pip
 - plotly=4.4
 - ptvsd
+- python=3.7
 - seaborn
+- srtm.py=0.3.4
 - voila=0.1.20
 - voila-gridstack
 - voila-material=0.2
 - voila-reveal=0.0.2
 - voila-vuetify=0.2.2
 - xeus-python=0.6
-- pip:
-  - srtm.py==0.3.4
-  - jupyterlab-heroku
-  - jupyterlab-git
 
