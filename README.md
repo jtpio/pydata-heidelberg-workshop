@@ -18,8 +18,13 @@ chmod +x ./postBuild
 jupyter lab workshop.ipynb
 ```
 
-Alternatively, Voila can also be installed via `pip`:
+Alternatively, Voila can also be installed via `pip` or `conda`:
 
 ```bash
 pip install voila
+```
+
+
+```bash
+conda install voila -c conda-forge
 ```
