@@ -1,6 +1,6 @@
 # PyData Heidelberg Workshop - 2020-01-09
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/jtpio/pydata-heidelberg-workshop/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/pydata-heidelberg-workshop/master)
 
 ## Setup
 
