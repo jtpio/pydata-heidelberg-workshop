@@ -10,6 +10,7 @@ dependencies:
 - ipyvuetify=1.1
 - jupyterlab=1
 - matplotlib
+- nodejs
 - notebook>=6
 - numpy
 - pandas
