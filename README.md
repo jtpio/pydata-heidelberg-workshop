@@ -11,6 +11,8 @@ cd pydata-heidelberg-workshop/
 conda env create
 conda activate voila-starter-pack
 chmod +x ./postBuild
+
+# On Windows, you can run the `jupyter` commands from the postBuild file manually
 ./postBuild
 
 jupyter lab workshop.ipynb
